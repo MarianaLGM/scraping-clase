@@ -63,7 +63,7 @@ el axios para poder extraerlo*/
         )
     }
     })
-    console.log(link)//aquí veremos los enlaces
+    //console.log(link)//aquí veremos los enlaces
 })
 
 app.listen(3000, ()=>{
